@@ -1,0 +1,7 @@
+{
+  "name": "me colgue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
