@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    justify-content: center;
+}
+
+.menu_tasks{
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+    margin-left: auto;
+    width: 329px;
+    height: 533px;
+    border-radius: 24px;
+    background: #323232;
+
+    .title2{
+        padding: 25px;
+        color: #FFF;
+        text-align: left;
+        font-size: 24px;
+        font-weight: 700;
+        justify-content: left;
+
+    }
+
+    .tasks{
+        margin-bottom: 42px;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: 35px;
+        width: 298px;
+        height: 51px;
+        background-color: #B53B3B;
+    }
+
+}
