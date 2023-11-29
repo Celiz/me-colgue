@@ -30,7 +30,7 @@ const App: React.FC = () => {
     <IonApp>
       <IonReactRouter>
           <IonRouterOutlet id="main">
-            <Route path="/Home" exact={true}>
+            <Route path="/" exact={true}>
               <Home />
             </Route>
             <Route path="/AddActivity" exact={true}>
